@@ -5,7 +5,7 @@ import "./globals.css"
 export default function Home() {
   return (
     <>
-      <div className="bg-gray-200 p-4">
+      <div className="bg-gray-200 p-4" >
 
         <main className="p-8 space-y-8">
           <h1 className="text-2xl font-bold">Dashboard Customer</h1>
